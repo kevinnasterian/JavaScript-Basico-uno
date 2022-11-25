@@ -1,0 +1,16 @@
+{
+  "name": "prueba-json",
+  "version": "1.0.0",
+  "description": "This is a test for the Json packages",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproject"
+  ],
+  "author": "Kevin-Valencia",
+  "license": "ISC"
+}
